@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mí
+subtitle: "daguerre usted no sirve ni para apretar un tornillo"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Facundo Daguerre, nací en Tres Arroyos, ciudad agrícola al sur de la pcia. de Buenos Aires, Argentina, Latinoamerica.  
+De chico me gustaba jugar con cables, viví la mayor parte de mi infancia pegado a la TV por cable, y habito internet desde el modem dial-up a 56k.  
+Millennial a mucha honra, Arduino fanboy, Maker/Hacker hobbista, una vez un profesor del colegio técnico me dijo:
+>daguerre!, usted no sirve ni para apretar un tornillo!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Valga este blog para demostrar que **tenía razón**. Salud!
