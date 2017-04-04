@@ -151,7 +151,14 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  # Exclude the example posts
   - _posts/2015-02-26-flake-it-till-you-make-it.md
+  - _posts/2015-02-20-test-markdown.md
+  - _posts/2015-02-13-hamlet-monologue.md
+  - _posts/2015-01-27-dear-diary.md
+  - _posts/2015-01-19-soccer.md
+  - _posts/2015-01-15-pirates.md
+  - _posts/2015-01-04-first-post.md
 
 # prose.io config
 prose:
